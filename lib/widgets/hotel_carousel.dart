@@ -37,7 +37,7 @@ class HotelCarousel extends StatelessWidget {
           ),
         ),
         SizedBox(
-          height: 300,
+          height: 314,
           child: ListView.builder(
             scrollDirection: Axis.horizontal,
             itemCount: hotels.length,

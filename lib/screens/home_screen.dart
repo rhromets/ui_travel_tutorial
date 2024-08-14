@@ -85,6 +85,7 @@ class _HomeScreenState extends State<HomeScreen> {
       bottomNavigationBar: BottomNavigationBar(
         currentIndex: _currentTab,
         selectedItemColor: Theme.of(context).primaryColor,
+        unselectedItemColor: const Color(0xFFB4C1C4),
         showSelectedLabels: false,
         showUnselectedLabels: false,
         selectedFontSize: 0.0,
