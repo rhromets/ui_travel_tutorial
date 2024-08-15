@@ -54,7 +54,10 @@ class _HomeScreenState extends State<HomeScreen> {
     return Scaffold(
       body: SafeArea(
         child: ListView(
-          padding: const EdgeInsets.symmetric(vertical: 30.0),
+          padding: const EdgeInsets.only(
+            top: 30.0,
+            bottom: 10,
+          ),
           children: [
             const Padding(
               padding: EdgeInsets.only(left: 20, right: 120),
