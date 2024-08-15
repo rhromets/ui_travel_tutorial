@@ -1,16 +1,18 @@
-# ui_travel_tutorial
+# UI Travel Tutorial
 
-A new Flutter project.
+This Flutter project is a training exercise focused on creating a sleek and interactive travel-themed user interface. 
+The app features a horizontally scrollable list of travel destinations and another horizontal scroll of exclusive hotels. 
+The interface allows users to explore various travel spots and accommodations visually.
 
-## Getting Started
+## Overview:
 
-This project is a starting point for a Flutter application.
+![A screenshot showing app](/assets/screenshots/screenshot12.png)
 
-A few resources to get you started if this is your first Flutter project:
+## Purpose:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+This **UI** was developed solely for learning purposes and is part of a series of exercises aimed at improving Flutter UI design skills. 
+It does not include backend integration or real data.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Usage:
+
+To run this project locally, ensure you have Flutter installed. Clone the repository and run flutter run in your terminal to view the UI on your device or emulator.
